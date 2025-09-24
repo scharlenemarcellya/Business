@@ -1,5 +1,5 @@
 
-# Shierly
+# Shierly, 2025//09/24
 # Print Hello World!
 #
 
@@ -8,4 +8,4 @@
 # 2. Process
 
 # 3. Output
-print('Hello thu')
+
